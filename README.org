@@ -1,0 +1,8 @@
+* xmllib-cl
+
+Library for parsing xml files, adding and editing tags.
+
+*Note*: The library is made to edit and parse xml files created with
+ this library or which follow the same patterns, since I won't be
+ making it so it can parse xml files with weird tabulations or
+ newlines.
