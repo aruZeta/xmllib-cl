@@ -5,8 +5,7 @@
   (:export #:start-tag
            #:end-tag
            #:content
-           #:tag
-           #:simple-tag))
+           #:tag))
 (in-package :xmllib-cl/writer/tag)
 
 (defvar *indent-level* 0)
